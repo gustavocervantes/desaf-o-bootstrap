@@ -2,7 +2,9 @@ header{
     background-color: lightblue;
     display: flex;
     text-align: center;
+    
 }
+
 
 header img{
     width: 7em;
